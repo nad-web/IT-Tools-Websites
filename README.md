@@ -11,4 +11,6 @@
 # 10. Webcheck https://www.heise.de/netze/tools/webcheck?protocol=https&domain=google.com
 # 11. Whois https://www.heise.de/netze/tools/whois/
 # 12. IPv4-Adressen https://www.heise.de/Reservierte-IPv4-Adressen-3484192.html
-# 13.                                                                   
+# 13. IPv6-Adressen https://www.heise.de/IPv6-Adressen-3484199.html
+# 14. Spam-Listen https://www.heise.de/netze/tools/spam-listen/
+# 15. 
